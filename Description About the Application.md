@@ -6,6 +6,7 @@ V0.1
   This software comes from Java language and work at Java ide.
   In this software we are use Math.random(), if-else and while.
   Basicly this software is a mini-game.
+----------------------
 
 v0.2
   To add excitement to the gameplay, I added a line in which we have a certain number of lives.
